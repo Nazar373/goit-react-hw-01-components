@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Nazar373/goit-react-hw-01-components.git/static/css/main.7acaea2f.css",
-    "main.js": "/Nazar373/goit-react-hw-01-components.git/static/js/main.a2f36b13.js",
-    "index.html": "/Nazar373/goit-react-hw-01-components.git/index.html",
-    "main.7acaea2f.css.map": "/Nazar373/goit-react-hw-01-components.git/static/css/main.7acaea2f.css.map",
-    "main.a2f36b13.js.map": "/Nazar373/goit-react-hw-01-components.git/static/js/main.a2f36b13.js.map"
+    "main.css": "./static/css/main.7acaea2f.css",
+    "main.js": "./static/js/main.72a6c533.js",
+    "index.html": "./index.html",
+    "main.7acaea2f.css.map": "./static/css/main.7acaea2f.css.map",
+    "main.72a6c533.js.map": "./static/js/main.72a6c533.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.a2f36b13.js"
+    "static/js/main.72a6c533.js"
   ]
 }
